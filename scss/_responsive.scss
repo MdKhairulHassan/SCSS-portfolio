@@ -125,13 +125,15 @@
           text-align: center;
         }
       }
+    }
+    .main_header {
       .mobile_bars {
         display: block;
         position: absolute;
         right: 20px;
-        top: 10px;
+        top: 15px;
         i {
-          color: $whiteColor;
+          color: $pColor;
           font-size: 25px;
           cursor: pointer;
         }
